@@ -361,6 +361,11 @@
             "name": "demo 2",
             "expression": "\" new measure \"",
             "lineageTag": "eeb0ed63-ac43-44cc-a6b3-48fb82b66bdc"
+          },
+          {
+            "name": "new demo",
+            "expression": "\"project demo 23\"",
+            "lineageTag": "181f50ae-a26c-43d1-b3b1-b2ab04ecdcd8"
           }
         ],
         "partitions": [
