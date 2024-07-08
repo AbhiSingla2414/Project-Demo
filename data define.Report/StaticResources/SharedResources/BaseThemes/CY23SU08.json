@@ -1,5 +1,5 @@
 {
-  "name": "CY22SU03",
+  "name": "CY23SU08",
   "dataColors": [
     "#118DFF",
     "#12239E",
@@ -107,13 +107,19 @@
         "categoryAxis": [
           {
             "showAxisTitle": true,
-            "gridlineStyle": "dotted"
+            "gridlineStyle": "dotted",
+            "concatenateLabels": false
           }
         ],
         "valueAxis": [
           {
             "showAxisTitle": true,
             "gridlineStyle": "dotted"
+          }
+        ],
+        "y2Axis": [
+          {
+            "show": true
           }
         ],
         "title": [
@@ -142,11 +148,6 @@
             "backgroundColor": {
               "solid": {
                 "color": "#ffffff"
-              }
-            },
-            "foregroundColor": {
-              "solid": {
-                "color": "#252423"
               }
             },
             "transparency": 0,
@@ -186,7 +187,8 @@
       "*": {
         "bubbles": [
           {
-            "bubbleSize": -10
+            "bubbleSize": -10,
+            "markerRangeType": "auto"
           }
         ],
         "general": [
@@ -225,7 +227,25 @@
       "*": {
         "bubbles": [
           {
-            "bubbleSize": -10
+            "bubbleSize": -10,
+            "markerRangeType": "auto"
+          }
+        ]
+      }
+    },
+    "azureMap": {
+      "*": {
+        "bubbleLayer": [
+          {
+            "bubbleRadius": 8,
+            "minBubbleRadius": 8,
+            "maxRadius": 40
+          }
+        ],
+        "barChart": [
+          {
+            "barHeight": 3,
+            "thickness": 3
           }
         ]
       }
@@ -303,11 +323,6 @@
         ],
         "items": [
           {
-            "fontColor": {
-              "solid": {
-                "color": "#252423"
-              }
-            },
             "padding": 4,
             "accessibilityContrastProperties": true
           }

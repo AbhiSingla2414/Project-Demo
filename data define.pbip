@@ -3,7 +3,7 @@
   "artifacts": [
     {
       "report": {
-        "path": "First BI.Report"
+        "path": "data define.Report"
       }
     }
   ],

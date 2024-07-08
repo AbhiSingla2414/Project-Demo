@@ -1,11 +1,11 @@
 {
   "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
   "metadata": {
-    "type": "Report",
-    "displayName": "First BI"
+    "type": "SemanticModel",
+    "displayName": "data define"
   },
   "config": {
     "version": "2.0",
-    "logicalId": "f4c5dfa4-72bf-439c-9156-666b54801dac"
+    "logicalId": "2b590b66-dd93-48a8-b8ff-ff87cd786604"
   }
 }

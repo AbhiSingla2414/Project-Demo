@@ -13,33 +13,10 @@
             "x": 0,
             "y": 0
           },
-          "nodeIndex": "Orders",
+          "nodeIndex": "Sheet1",
+          "nodeLineageTag": "2a9dcb6f-c0d7-40c0-b70a-f33abd950b6c",
           "size": {
-            "height": 300,
-            "width": 234
-          },
-          "zIndex": 0
-        },
-        {
-          "location": {
-            "x": 386.8,
-            "y": 86
-          },
-          "nodeIndex": "People",
-          "size": {
-            "height": 128,
-            "width": 234
-          },
-          "zIndex": 0
-        },
-        {
-          "location": {
-            "x": 773.5,
-            "y": 86
-          },
-          "nodeIndex": "Returns",
-          "size": {
-            "height": 128,
+            "height": 296,
             "width": 234
           },
           "zIndex": 0
